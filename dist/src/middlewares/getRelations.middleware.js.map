@@ -1,1 +1,0 @@
-{"version":3,"file":"getRelations.middleware.js","sourceRoot":"","sources":["../../../src/middlewares/getRelations.middleware.ts"],"names":[],"mappings":";;;;;;;;;;AACa,QAAA,sBAAsB,GAAG,CAAC,SAAmB,EAAE,EAAE,CAAC,CAAO,GAAG,EAAE,IAAI,EAAE,IAAI,EAAE,EAAE;IAEvF,GAAG,CAAC,KAAK,GAAG,EAAE,SAAS,EAAE,KAAK,EAAE,GAAG,CAAC,KAAK,EAAE,CAAC;IAE5C,IAAI,EAAE,CAAC;AACT,CAAC,CAAA,CAAC"}
